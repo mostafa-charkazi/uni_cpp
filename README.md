@@ -25,3 +25,9 @@ Big Numbers Calculator
         Mostafa Cherkazi
         Mohammad Parsa Chinian
         Ali Asghar Bararjanpour
+
+
+equation-3-3
+--
+3 equations 3 unknowns
+    Cramer’s Rule for a 3×3 System (with Three Variables)
