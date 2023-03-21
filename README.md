@@ -7,7 +7,7 @@ Statistics
 --
 Calculating:
 
-mean / median / variance / standard deviation / maximum / minimum
+    mean / median / variance / standard deviation / maximum / minimum
 
 
 Big Numbers Calculator
