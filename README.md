@@ -15,7 +15,7 @@ Big Numbers Calculator
     Project title:
         Big numbers calculator
 
-    professor's name:
+    Professor's name:
         Hadi Asharioun
 
     TA:
