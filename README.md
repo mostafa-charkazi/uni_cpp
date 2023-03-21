@@ -19,7 +19,7 @@ Big Numbers Calculator
         Hadi Asharioun
 
     TA:
-        Amin Haj Jafari
+        Amin Hajjafari
 
     Group members :
         Mostafa Cherkazi
