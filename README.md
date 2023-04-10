@@ -18,7 +18,7 @@ Big Numbers Calculator
     Professor's name:
         Hadi Asharioun
 
-    TA:
+    Teacher Assistant:
         Amin Hajjafari
 
     Group members :
