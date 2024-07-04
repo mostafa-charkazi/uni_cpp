@@ -1,11 +1,10 @@
 # sbu_cpp
 Uni C++ Codes
 
-Folder:
 
 Statistics
 --
-Calculating:
+    Calculating:
 
     mean / median / variance / standard deviation / maximum / minimum
 
@@ -29,6 +28,6 @@ Big Numbers Calculator
 
 equation-3-3
 --
-3 equations 3 unknowns:
+    3 equations 3 unknowns:
 
     Cramer’s Rule for a 3×3 System (with Three Variables)
