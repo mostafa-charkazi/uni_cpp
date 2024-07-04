@@ -1,5 +1,5 @@
 # sbu_cpp
-Uni C++ exercises and projects
+Uni C++ Codes
 
 Folder:
 
